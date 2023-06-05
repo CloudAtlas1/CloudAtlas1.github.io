@@ -24,13 +24,13 @@ html, body{
   padding: 3rem;
 }
 .fa-facebook{
-  color: #87ac8f
+  color: #5b5998;
 }
 .fa-instagram{
-  color: #87ac8f
+  color: #517fa4;
 }
 .fa-twitter{
-  color: #87ac8f
+  color: #0000aced;
 }
 .fa-facebook:hover, .fa-instagram:hover, .fa-twitter:hover{
   color: #d5d5d5
